@@ -1,4 +1,4 @@
-# Image-Segmentation
+# Brain Tumor Segmentation using 2D U-Net
 Hi, 
 
 I am Keval Sharma. I am a student of Masters in Computer Science at Lakehead University and this is my master's project.
